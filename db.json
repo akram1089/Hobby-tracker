@@ -1,0 +1,22 @@
+{
+  "hobbies": [
+    {
+      "id": 1,
+      "title": "Learning",
+      "hobby_desc": "Learning is the process of acquiring new understanding, knowledge, behaviors,",
+      "Check": true
+    },
+    {
+      "id": 2,
+      "title": "Photography",
+      "hobby_desc": "Photography is the art, application, and practice of creating durable images ",
+      "Check": true
+    },
+    {
+      "id": 6,
+      "title": "Cooking",
+      "hobby_desc": "Cooking, cookery, or culinary arts is the art, science and craft of using heat to prepare food for consumption. ",
+      "Check": false
+    }
+  ]
+}
